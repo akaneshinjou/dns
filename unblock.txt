@@ -1,0 +1,86 @@
+HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
+ 
+## Introduction
+Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, so basically your ISP and possibly government could know what sites you access.
+ 
+This is how site blocking mostly works.
+Many ISPs have a blocklist on their DNS servers, if your device sends DNS request of a domain that is in their blocklist, they will block it.
+ 
+Fortunately there are many ways to bypass it, one of them is by changing DNS on our devices, but if you are using a traditional way like by using 8.8.8.8 and 8.8.4.4, ISP could still sniff and intercept the DNS request because it's un-encrypted.
+ 
+The workaround is obviously by encrypting the DNS request that's sent from your devices so your ISP and government can't see what sites you are accessing.
+I've made tutorial for some OSes below.
+ 
+----------
+ 
+# Windows/macOS/Linux
+---
+Google Chrome 83+
+1. Open Menu > Settings.
+2. Open Security or `chrome://settings/security`.
+3. Enable Use secure DNS.
+4. Select With and click the dropdown next to it.
+5. Choose Cloudflare or Quad9 or other provider.
+ 
+Mozilla Firefox 60+
+1. Open Menu > Options.
+2. Scroll down to the bottom.
+3. Click Settings under Network Settings.
+4. Check Enable DNS over HTTPS.
+5. Choose Cloudflare or NextDNS or other provider.
+6. Click OK.
+ 
+You can also encrypt all the DNS requests on your PC by using other tools such as Simple DNSCrypt or Yoga DNS.
+ 
+----------
+ 
+# Android
+---
+Google Chrome 83+
+1. Tap Menu > Settings.
+2. Tap Privacy and security >  Use secure DNS.
+3. Enable Use secure DNS.
+4. Select Choose another provider and tap the dropdown below it.
+5. Choose Cloudflare or other provider.
+ 
+Built-in DNS-over-TLS resolver (Android 9+)*
+1. Open Settings.
+2. Tap Network & internet > Advanced > Private DNS.
+3. Select Private DNS provider hostname.
+4. Enter 1dot1dot1dot1.cloudflare-dns.com or dns.quad9.net or other provider you prefer.
+Note: Device restart may be required to clear DNS cache.
+* This tutorial is for vanilla Android, steps may be different for other OSes.
+ 
+Nebulo
+1. Install Nebulo - DNS Changer for DNS over HTTPS/TLS from Play Store or F-Droid.
+2. Open the app.
+3. Tap button on the bottom left to select DNS server.
+4. Select DNS server you want, Cloudflare DNS and Quad9 are recommended.
+5. Tap the padlock button to start, tap OK (one-time).
+Note: You can't use VPN app while using this app.
+ 
+----------
+ 
+# iOS
+---
+DNS Cloak
+1. Install DNS Cloak from App Store.
+2. Open the app.
+3. Select DNS server you want, Cloudflare DNS and Quad9 are recommended.
+4. Tap Play/Start button on the top left.
+Note: You can't use VPN app while using this app.
+ 
+----------
+ 
+# iOS/Android
+---
+1.1.1.1
+1. Install 1.1.1.1 from App Store.
+2. Open the app.
+4. Enable it, tap OK (one-time).
+Note: You can't use VPN app while using this app.
+ 
+----------
+ 
+If method above doesn't work it may because your ISP using other technique.
+To bypass that you can use VPN that will encrypt the entire traffic on your devices, but it's not free.
