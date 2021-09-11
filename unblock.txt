@@ -1,4 +1,4 @@
-HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
+---------- HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS ----------
  
 ## Introduction
 Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, so basically your ISP and possibly government could know what sites you access.
@@ -6,15 +6,11 @@ Whenever you open a website, your device will send DNS request, most internet co
 This is how site blocking mostly works.
 Many ISPs have a blocklist on their DNS servers, if your device sends DNS request of a domain that is in their blocklist, they will block it.
  
-Fortunately there are many ways to bypass it, one of them is by changing DNS on our devices, but if you are using a traditional way like by using 8.8.8.8 and 8.8.4.4, ISP could still sniff and intercept the DNS request because it's un-encrypted.
- 
-The workaround is obviously by encrypting the DNS request that's sent from your devices so your ISP and government can't see what sites you are accessing.
-I've made tutorial for some OSes below.
+The workaround for this block method is encrypting the DNS request that's sent from your devices so your ISP and government can't see what sites you are accessing.
  
 ----------
- 
 # Windows/macOS/Linux
----
+----------
 Google Chrome 83+
 1. Open Menu > Settings.
 2. Open Security or `chrome://settings/security`.
@@ -33,9 +29,8 @@ Mozilla Firefox 60+
 You can also encrypt all the DNS requests on your PC by using other tools such as Simple DNSCrypt or Yoga DNS.
  
 ----------
- 
 # Android
----
+----------
 Google Chrome 83+
 1. Tap Menu > Settings.
 2. Tap Privacy and security >  Use secure DNS.
@@ -60,9 +55,8 @@ Nebulo
 Note: You can't use VPN app while using this app.
  
 ----------
- 
 # iOS
----
+----------
 DNS Cloak
 1. Install DNS Cloak from App Store.
 2. Open the app.
@@ -71,16 +65,20 @@ DNS Cloak
 Note: You can't use VPN app while using this app.
  
 ----------
- 
 # iOS/Android
----
+----------
 1.1.1.1
 1. Install 1.1.1.1 from App Store.
 2. Open the app.
 4. Enable it, tap OK (one-time).
 Note: You can't use VPN app while using this app.
  
-----------
+------------------------- IF DOESN'T WORK -----------------------------
  
 If method above doesn't work it may because your ISP using other technique.
-To bypass that you can use VPN that will encrypt the entire traffic on your devices, but it's not free.
+
+Try use tools like PowerTunnel
+Windows : https://github.com/krlvm/PowerTunnel
+Android : https://github.com/krlvm/PowerTunnel-Android
+
+If still doesn't work you can also use VPN that will encrypt the entire traffic on your devices and almost guarantee will work, but it's not free.
