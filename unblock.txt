@@ -16,7 +16,7 @@ Google Chrome 83+
 2. Open Security or `chrome://settings/security`.
 3. Enable Use secure DNS.
 4. Select With and click the dropdown next to it.
-5. Choose Cloudflare or Quad9 or other provider.
+5. Choose Cloudflare or Google or other provider.
  
 Mozilla Firefox 60+
 1. Open Menu > Options.
@@ -46,12 +46,10 @@ Built-in DNS-over-TLS resolver (Android 9+)*
 Note: Device restart may be required to clear DNS cache.
 * This tutorial is for vanilla Android, steps may be different for other OSes.
  
-Nebulo
-1. Install Nebulo - DNS Changer for DNS over HTTPS/TLS from Play Store or F-Droid.
+Trust DNS
+1. Install Trust DNS - DNS Changer from Play Store or F-Droid.
 2. Open the app.
-3. Tap button on the bottom left to select DNS server.
-4. Select DNS server you want, Cloudflare DNS and Quad9 are recommended.
-5. Tap the padlock button to start, tap OK (one-time).
+3. Tab connect button.
 Note: You can't use VPN app while using this app.
  
 ----------
@@ -60,7 +58,7 @@ Note: You can't use VPN app while using this app.
 DNS Cloak
 1. Install DNS Cloak from App Store.
 2. Open the app.
-3. Select DNS server you want, Cloudflare DNS and Quad9 are recommended.
+3. Select DNS server you want, Cloudflare DNS are recommended.
 4. Tap Play/Start button on the top left.
 Note: You can't use VPN app while using this app.
  
