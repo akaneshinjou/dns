@@ -5,6 +5,7 @@ Whenever you open a website, your device will send DNS request, most internet co
  
 This is how site blocking mostly works, and also if your ISP have technical problem it may result in some website become inaccesible.
 The workaround for this block method is encrypting the DNS request that's sent from your devices so your ISP and government can't interfere what sites you are accessing.
+More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS
  
  
 ----------
@@ -13,7 +14,7 @@ The workaround for this block method is encrypting the DNS request that's sent f
 https://1.1.1.1/
 1. Install 1.1.1.1 app from https://1.1.1.1/.
 2. Open the app.
-4. Enable it, tap OK (one-time).
+3. Enable it, tap OK (one-time).
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
  
  
@@ -41,10 +42,10 @@ You can also encrypt all the DNS requests on your PC by using other tools such a
 ----------
 # Android
 ----------
-1.1.1.1
+ 1.1.1.1
 1. Install 1.1.1.1 app from Play Store.
 2. Open the app.
-4. Enable it, tap OK (one-time).
+3. Enable it, tap OK (one-time).
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
 
 Trust DNS
@@ -65,10 +66,10 @@ Note: Device restart may be required to clear DNS cache.
 ----------
 # iOS
 ----------
-1.1.1.1
+ 1.1.1.1
 1. Install 1.1.1.1 app from App Store.
 2. Open the app.
-4. Enable it, tap OK (one-time).
+3. Enable it, tap OK (one-time).
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
 
 DNS Cloak
