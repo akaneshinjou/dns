@@ -1,11 +1,12 @@
---- HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS ---
+HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
  
 ## Introduction
 Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, this mean your ISP & Government can affect how you access website.
  
 This is how site blocking mostly works, and also if your ISP have technical problem it may result in some website become inaccesible.
 The workaround for this block method is encrypting the DNS request that's sent from your devices so your ISP and government can't interfere what sites you are accessing.
-
+ 
+ 
 ----------
 # Windows/macOS/Linux/iOS/Android (Available in multi-platform)
 ----------
@@ -14,6 +15,7 @@ https://1.1.1.1/
 2. Open the app.
 4. Enable it, tap OK (one-time).
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
+ 
  
 ----------
 # Desktop Only
@@ -35,16 +37,10 @@ Mozilla Firefox 60+
  
 You can also encrypt all the DNS requests on your PC by using other tools such as Simple DNSCrypt or Yoga DNS.
  
+ 
 ----------
 # Android
 ----------
-Google Chrome 83+
-1. Tap Menu > Settings.
-2. Tap Privacy and security >  Use secure DNS.
-3. Enable Use secure DNS.
-4. Select Choose another provider and tap the dropdown below it.
-5. Choose Cloudflare or other provider.
-
 Trust DNS
 1. Install Trust DNS - DNS Changer from Play Store or F-Droid.
 2. Open the app.
@@ -59,6 +55,7 @@ Built-in DNS-over-TLS resolver (Android 9+)*
 Note: Device restart may be required to clear DNS cache.
 * This tutorial is for vanilla Android, steps may be different for other OSes.
  
+ 
 ----------
 # iOS
 ----------
@@ -69,8 +66,8 @@ DNS Cloak
 4. Tap Play/Start button on the top left.
 Note: You can't use VPN app while using this app.
  
-------- IF DOESN'T WORK -------
  
+------- IF DOESN'T WORK -------
 If method above doesn't work it may because your ISP using other technique to block website.
 
 Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)
