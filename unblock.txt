@@ -5,6 +5,15 @@ Whenever you open a website, your device will send DNS request, most internet co
  
 This is how site blocking mostly works, and also if your ISP have technical problem it may result in some website become inaccesible.
 The workaround for this block method is encrypting the DNS request that's sent from your devices so your ISP and government can't interfere what sites you are accessing.
+
+----------
+# Windows/macOS/Linux/iOS/Android
+----------
+https://1.1.1.1/
+1. Install 1.1.1.1 app from https://1.1.1.1/.
+2. Open the app.
+4. Enable it, tap OK (one-time).
+Note: You can't use VPN app while using this app.
  
 ----------
 # Windows/macOS/Linux
@@ -58,15 +67,6 @@ DNS Cloak
 2. Open the app.
 3. Select DNS server you want, Cloudflare DNS are recommended.
 4. Tap Play/Start button on the top left.
-Note: You can't use VPN app while using this app.
- 
-----------
-# iOS/Android
-----------
-1.1.1.1
-1. Install 1.1.1.1 from App Store.
-2. Open the app.
-4. Enable it, tap OK (one-time).
 Note: You can't use VPN app while using this app.
  
 ------- IF DOESN'T WORK -------
