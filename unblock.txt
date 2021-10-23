@@ -7,7 +7,7 @@ This is how site blocking mostly works, and also if your ISP have technical prob
 The workaround for this block method is encrypting the DNS request that's sent from your devices so your ISP and government can't interfere what sites you are accessing.
 
 ----------
-# Windows/macOS/Linux/iOS/Android
+# Windows/macOS/Linux/iOS/Android (Available in multi-platform)
 ----------
 https://1.1.1.1/
 1. Install 1.1.1.1 app from https://1.1.1.1/.
@@ -16,7 +16,7 @@ https://1.1.1.1/
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
  
 ----------
-# Windows/macOS/Linux
+# Desktop Only
 ----------
 Google Chrome 83+
 1. Open Menu > Settings.
@@ -44,6 +44,12 @@ Google Chrome 83+
 3. Enable Use secure DNS.
 4. Select Choose another provider and tap the dropdown below it.
 5. Choose Cloudflare or other provider.
+
+Trust DNS
+1. Install Trust DNS - DNS Changer from Play Store or F-Droid.
+2. Open the app.
+3. Tab connect button.
+Note: You can't use VPN app while using this app.
  
 Built-in DNS-over-TLS resolver (Android 9+)*
 1. Open Settings.
@@ -52,12 +58,6 @@ Built-in DNS-over-TLS resolver (Android 9+)*
 4. Enter 1dot1dot1dot1.cloudflare-dns.com or dns.quad9.net or other provider you prefer.
 Note: Device restart may be required to clear DNS cache.
 * This tutorial is for vanilla Android, steps may be different for other OSes.
- 
-Trust DNS
-1. Install Trust DNS - DNS Changer from Play Store or F-Droid.
-2. Open the app.
-3. Tab connect button.
-Note: You can't use VPN app while using this app.
  
 ----------
 # iOS
@@ -71,7 +71,7 @@ Note: You can't use VPN app while using this app.
  
 ------- IF DOESN'T WORK -------
  
-If method above doesn't work it may because your ISP using other technique.
+If method above doesn't work it may because your ISP using other technique to block website.
 
 Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)
 Windows : https://github.com/krlvm/PowerTunnel
