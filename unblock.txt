@@ -13,7 +13,7 @@ https://1.1.1.1/
 1. Install 1.1.1.1 app from https://1.1.1.1/.
 2. Open the app.
 4. Enable it, tap OK (one-time).
-Note: You can't use VPN app while using this app.
+Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
  
 ----------
 # Windows/macOS/Linux
