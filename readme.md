@@ -1,4 +1,4 @@
-# HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
+HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
 -----
  
 ## Introduction
@@ -73,10 +73,10 @@ Note: You can't use VPN app while using this app.
  
  
 ## IF DOESN'T WORK
-If method above doesn't work it may because your ISP using other technique to block website.
-
-Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)
-Windows : https://github.com/krlvm/PowerTunnel
-Android : https://github.com/krlvm/PowerTunnel-Android
-
+If method above doesn't work it may because your ISP using other technique to block website.  
+  
+Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)  
+Windows : https://github.com/krlvm/PowerTunnel  
+Android : https://github.com/krlvm/PowerTunnel-Android  
+  
 If still doesn't work you need to use VPN that will encrypt the entire traffic on your devices and almost guarantee will work, the only downside it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.
