@@ -1,4 +1,5 @@
-HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
+# HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
+-----
  
 ## Introduction
 Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, this mean your ISP & Government can affect how you access website.
@@ -8,9 +9,7 @@ The workaround for this block method is encrypting the DNS request that's sent f
 More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS
  
  
-----------
-# Multi-platform (Windows/macOS/Linux/iOS/Android)
-----------
+## Multi-platform (Windows/macOS/Linux/iOS/Android)
 Cloudflare 1.1.1.1
 1. Install 1.1.1.1 app from https://1.1.1.1/.
 2. Open the app.
@@ -18,9 +17,7 @@ Cloudflare 1.1.1.1
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
  
  
-----------
-# Browsers Only
-----------
+## Browsers Only
 Google Chrome 83+
 1. Open Menu > Settings.
 2. Open Security or `chrome://settings/security`.
@@ -38,9 +35,7 @@ Mozilla Firefox 60+
 Other browsers might also have this feature, try find it in settings.  
 Other desktop app : Simple DNSCrypt & Yoga DNS
  
-----------
-# Android
-----------
+## Android
  1.1.1.1
 1. Install 1.1.1.1 app from Play Store.
 2. Open the app.
@@ -61,10 +56,8 @@ Built-in DNS-over-TLS resolver (Android 9+)*
 Note: Device restart may be required to clear DNS cache.
 * This tutorial is for vanilla Android, steps may be different for other OSes.
  
- 
-----------
-# iOS
-----------
+
+## iOS
  1.1.1.1
 1. Install 1.1.1.1 app from App Store.
 2. Open the app.
@@ -79,7 +72,7 @@ DNS Cloak
 Note: You can't use VPN app while using this app.
  
  
------- IF DOESN'T WORK ------
+## IF DOESN'T WORK
 If method above doesn't work it may because your ISP using other technique to block website.
 
 Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)
