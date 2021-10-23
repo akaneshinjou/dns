@@ -19,7 +19,7 @@ Note: Make sure you enable warp feature, and you can't use VPN app while using t
  
  
 ----------
-# Desktop Only
+# Browsers Only
 ----------
 Google Chrome 83+
 1. Open Menu > Settings.
@@ -34,10 +34,9 @@ Mozilla Firefox 60+
 3. Click Settings under Network Settings.
 4. Check Enable DNS over HTTPS.
 5. Choose Cloudflare or NextDNS or other provider.
-6. Click OK.
- 
-You can also encrypt all the DNS requests on your PC by using other tools such as Simple DNSCrypt or Yoga DNS.
- 
+
+Other browsers might also have this feature, try find it in settings.  
+Other desktop app : Simple DNSCrypt & Yoga DNS
  
 ----------
 # Android
