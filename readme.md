@@ -13,8 +13,8 @@ More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS
 Cloudflare 1.1.1.1
 1. Install 1.1.1.1 app from https://1.1.1.1/.
 2. Open the app.
-3. Enable it, tap OK (one-time).
-Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
+3. Enable it, tap OK (one-time).  
+Note: Make sure you enable warp feature, and you can't use VPN app while using this app.  
  
  
 ## Browsers Only
@@ -33,26 +33,26 @@ Mozilla Firefox 60+
 5. Choose Cloudflare or NextDNS or other provider.
 
 Other browsers might also have this feature, try find it in settings.  
-Other desktop app : Simple DNSCrypt & Yoga DNS
+Other desktop app : Simple DNSCrypt & Yoga DNS  
  
 ## Android
  1.1.1.1
 1. Install 1.1.1.1 app from Play Store.
 2. Open the app.
-3. Enable it, tap OK (one-time).
+3. Enable it, tap OK (one-time).  
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
 
 Trust DNS
 1. Install Trust DNS - DNS Changer from Play Store or F-Droid.
 2. Open the app.
-3. Tab connect button.
+3. Tab connect button.  
 Note: You can't use VPN app while using this app.
  
 Built-in DNS-over-TLS resolver (Android 9+)*
 1. Open Settings.
 2. Tap Network & internet > Advanced > Private DNS.
 3. Select Private DNS provider hostname.
-4. Enter 1dot1dot1dot1.cloudflare-dns.com or dns.quad9.net or other provider you prefer.
+4. Enter 1dot1dot1dot1.cloudflare-dns.com or dns.quad9.net or other provider you prefer.  
 Note: Device restart may be required to clear DNS cache.
 * This tutorial is for vanilla Android, steps may be different for other OSes.
  
@@ -61,14 +61,14 @@ Note: Device restart may be required to clear DNS cache.
  1.1.1.1
 1. Install 1.1.1.1 app from App Store.
 2. Open the app.
-3. Enable it, tap OK (one-time).
+3. Enable it, tap OK (one-time).  
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
 
 DNS Cloak
 1. Install DNS Cloak from App Store.
 2. Open the app.
 3. Select DNS server you want, Cloudflare DNS are recommended.
-4. Tap Play/Start button on the top left.
+4. Tap Play/Start button on the top left.  
 Note: You can't use VPN app while using this app.
  
  
