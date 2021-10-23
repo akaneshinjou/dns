@@ -41,6 +41,12 @@ You can also encrypt all the DNS requests on your PC by using other tools such a
 ----------
 # Android
 ----------
+1.1.1.1
+1. Install 1.1.1.1 app from Play Store.
+2. Open the app.
+4. Enable it, tap OK (one-time).
+Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
+
 Trust DNS
 1. Install Trust DNS - DNS Changer from Play Store or F-Droid.
 2. Open the app.
@@ -59,6 +65,12 @@ Note: Device restart may be required to clear DNS cache.
 ----------
 # iOS
 ----------
+1.1.1.1
+1. Install 1.1.1.1 app from App Store.
+2. Open the app.
+4. Enable it, tap OK (one-time).
+Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
+
 DNS Cloak
 1. Install DNS Cloak from App Store.
 2. Open the app.
