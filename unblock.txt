@@ -1,12 +1,10 @@
 --- HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS ---
  
 ## Introduction
-Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, so basically your ISP and possibly government could know what sites you access.
+Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, this mean your ISP & Government can affect how you access website.
  
-This is how site blocking mostly works.
-Many ISPs have a blocklist on their DNS servers, if your device sends DNS request of a domain that is in their blocklist, they will block it.
- 
-The workaround for this block method is encrypting the DNS request that's sent from your devices so your ISP and government can't see what sites you are accessing.
+This is how site blocking mostly works, and also if your ISP have technical problem it may result in some website become inaccesible.
+The workaround for this block method is encrypting the DNS request that's sent from your devices so your ISP and government can't interfere what sites you are accessing.
  
 ----------
 # Windows/macOS/Linux
@@ -75,7 +73,7 @@ Note: You can't use VPN app while using this app.
  
 If method above doesn't work it may because your ISP using other technique.
 
-Try use tools like PowerTunnel
+Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)
 Windows : https://github.com/krlvm/PowerTunnel
 Android : https://github.com/krlvm/PowerTunnel-Android
 
