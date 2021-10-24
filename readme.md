@@ -77,7 +77,7 @@ DNS Change
 Full guide : https://developers.cloudflare.com/1.1.1.1/setup-1.1.1.1/gaming-consoles  
 Note: This is just normal DNS change, may not work to ublock, but this the only thing console can do
 
-DoH on Router
+DoH on Router  
 setup the secure DNS on your internet router. The guide is vary between router device. You need to search specifically yourself or ask your ISP for help.
 example guide : https://mariushosting.com/synology-router-how-to-enable-dns-over-https/  
  
