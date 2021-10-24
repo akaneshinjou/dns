@@ -80,7 +80,7 @@ Note: You can't use VPN app while using this app.
   
  
 ---------
-# Consoles
+# Gaming Consoles
 ---------
 DNS Change  
 Full guide : https://developers.cloudflare.com/1.1.1.1/setup-1.1.1.1/gaming-consoles  
