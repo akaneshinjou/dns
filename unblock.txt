@@ -1,10 +1,10 @@
 HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
  
 ## Introduction
-Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, this mean your ISP & Government can affect how you access website.
+Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, this mean your ISP can affect how you access website.
  
-This is how site blocking mostly works, and also if your ISP have technical problem it may result in some website become inaccesible.
-The workaround for this block method is encrypting the DNS request that's sent from your devices so your ISP and government can't interfere what sites you are accessing.
+This is how site blocking mostly happen, and also if your ISP have technical problem it may result in some website become inaccesible.
+The workaround for this is encrypting the DNS request that's sent from your devices so your ISP and government can't interfere what sites you are accessing.
 More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS
  
  
@@ -76,9 +76,19 @@ DNS Cloak
 2. Open the app.
 3. Select DNS server you want, Cloudflare DNS are recommended.
 4. Tap Play/Start button on the top left.
-Note: You can't use VPN app while using this app.
+Note: You can't use VPN app while using this app.  
   
  
+------ IF DOESN'T WORK ------
+If method above doesn't work it may because your ISP using other technique to block website.
+
+Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)
+Windows : https://github.com/krlvm/PowerTunnel
+Android : https://github.com/krlvm/PowerTunnel-Android
+
+If still doesn't work you need to use VPN that will encrypt the entire traffic on your devices and almost guarantee will work, the only downside it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.  
+  
+  
 ---------
 # Gaming Consoles
 ---------
@@ -89,13 +99,3 @@ Note: This is just normal DNS change, may not work to ublock, but this the only 
 DoH on Router
 setup the secure DNS on your internet router. The guide is vary between router device. You need to search specifically yourself or ask your ISP for help.
 example guide : https://mariushosting.com/synology-router-how-to-enable-dns-over-https/  
-  
- 
------- IF DOESN'T WORK ------
-If method above doesn't work it may because your ISP using other technique to block website.
-
-Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)
-Windows : https://github.com/krlvm/PowerTunnel
-Android : https://github.com/krlvm/PowerTunnel-Android
-
-If still doesn't work you need to use VPN that will encrypt the entire traffic on your devices and almost guarantee will work, the only downside it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.
