@@ -80,7 +80,7 @@ Note: You can't use VPN app while using this app.
   
  
 ----------
-# IF DOESN'T WORK
+## IF DOESN'T WORK
 ----------
 If method above doesn't work it may because your ISP using other technique to block website.
 
