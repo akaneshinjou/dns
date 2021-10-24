@@ -77,7 +77,19 @@ DNS Cloak
 3. Select DNS server you want, Cloudflare DNS are recommended.
 4. Tap Play/Start button on the top left.
 Note: You can't use VPN app while using this app.
+  
  
+---------
+# Consoles
+---------
+DNS Change  
+Full guide : https://developers.cloudflare.com/1.1.1.1/setup-1.1.1.1/gaming-consoles  
+Note: This is just normal DNS change, may not work to ublock, but this the only thing console can do
+
+DoH on Router
+setup the secure DNS on your internet router. The guide is vary between router device. You need to search specifically yourself or ask your ISP for help.
+example guide : https://mariushosting.com/synology-router-how-to-enable-dns-over-https/  
+  
  
 ------ IF DOESN'T WORK ------
 If method above doesn't work it may because your ISP using other technique to block website.
