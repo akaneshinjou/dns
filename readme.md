@@ -89,4 +89,5 @@ Try use tools like PowerTunnel (Bypass more block method but more complicated to
 Windows : https://github.com/krlvm/PowerTunnel  
 Android : https://github.com/krlvm/PowerTunnel-Android  
   
-If still doesn't work you need to use VPN that will encrypt the entire traffic on your devices and almost guarantee will work, the only downside it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.
+If still doesn't work you need to use VPN that will encrypt the entire traffic on your devices and almost guarantee will work, the only downside it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.  
+free VPN : https://proprivacy.com/vpn/comparison/free-vpn-services
