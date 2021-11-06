@@ -20,7 +20,7 @@ Note: Make sure you enable warp feature, and you can't use VPN app while using t
  
  
 ----------
-# Browsers Only
+# Browsers
 ----------
 Google Chrome 83+
 1. Open Menu > Settings.
