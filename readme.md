@@ -11,13 +11,13 @@ More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS
  
 ## Multi-platform (Windows/macOS/Linux/iOS/Android)
 Cloudflare 1.1.1.1
-1. Install 1.1.1.1 app from https://1.1.1.1/.
+1. Install 1.1.1.1 app from https://one.one.one.one/.
 2. Open the app.
 3. Enable it, tap OK (one-time).  
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.  
  
  
-## Browsers Only
+## Browsers
 Google Chrome 83+
 1. Open Menu > Settings.
 2. Open Security or `chrome://settings/security`.
@@ -82,7 +82,7 @@ setup the secure DNS on your internet router. The guide is vary between router d
 example guide : https://mariushosting.com/synology-router-how-to-enable-dns-over-https/  
  
 ## IF DOESN'T WORK
-If method above doesn't work it may because your ISP using other technique to block website.  
+If all method above doesn't work it may because your ISP using other technique to block website.  
   
 Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)  
 Windows : https://github.com/krlvm/PowerTunnel  
