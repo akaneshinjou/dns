@@ -14,10 +14,11 @@ Cloudflare 1.1.1.1
 1. Install 1.1.1.1 app from https://one.one.one.one/.
 2. Open the app.
 3. Enable it, tap OK (one-time).  
+4. Done.
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.  
  
  
-## Browsers
+## Browsers Only
 Google Chrome 83+
 1. Open Menu > Settings.
 2. Open Security or `chrome://settings/security`.
