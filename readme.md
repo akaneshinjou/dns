@@ -4,8 +4,8 @@ HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
 ## Introduction
 Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, this mean your ISP & Government can affect how you access website.
  
-This is how site blocking mostly works, and also if your ISP have technical problem it may result in some website become inaccesible.
-The workaround for this block method is encrypting the DNS request that's sent from your devices so your ISP and government can't interfere what sites you are accessing.
+This is how site blocking mostly happen, and also if your ISP have technical problem it may result in some website become inaccesible.
+The workaround for this is encrypting the DNS request that's sent from your devices so your ISP and government can't interfere what sites you are accessing.
 More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS
  
  
