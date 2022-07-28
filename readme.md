@@ -6,10 +6,12 @@ Whenever you open a website, your device will send DNS request, most internet co
  
 This is how site blocking mostly happen, and also if your ISP have technical problem it may result in some website become inaccesible.
 The workaround for this is encrypting the DNS request that's sent from your devices so your ISP and government can't interfere what sites you are accessing.
-More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS
+More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS.
+
+Read guide below to unblock blocked sites, if doesn't work please read the last section on how to deal with it.
  
  
-## Multi-platform (Windows/macOS/Linux/iOS/Android)
+## Universal-platform (Windows/macOS/Linux/iOS/Android)
 Cloudflare 1.1.1.1
 1. Install 1.1.1.1 app from https://one.one.one.one/.
 2. Open the app.
@@ -55,7 +57,7 @@ DNS Cloak
 Note: You can't use VPN app while using this app.
  
   
-## Browsers Only
+## Browsers Only (May not as effective)
 Google Chrome 83+
 1. Open Menu > Settings.
 2. Open Security or `chrome://settings/security`.
