@@ -48,7 +48,7 @@ Note: Device restart may be required to clear DNS cache.
 * This tutorial is for vanilla Android, steps may be different for other OSes.
  
 
-#iOS
+# iOS
 
 DNS Cloak
 1. Install DNS Cloak from App Store.
