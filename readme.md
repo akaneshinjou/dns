@@ -26,7 +26,7 @@ Try use tools like PowerTunnel (Bypass more block method but more complicated to
 Android version : https://github.com/krlvm/PowerTunnel-Android/releases/latest 
   
 If still doesn't work you need to use VPN, it almost guarantee will work, the only downside is it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.  
-free VPN : https://proprivacy.com/vpn/comparison/free-vpn-services
+free VPN : https://proprivacy.com/vpn/comparison/free-vpn-services (any VPN will work, even not from this article)
  
 ## OTHER OPTIONS (IF YOU HAVE PROBLEM WITH 1.1.1.1 APP)
 
