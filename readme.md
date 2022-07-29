@@ -3,7 +3,7 @@
 ## Introduction
 Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, this mean your ISP & Government can affect how you access website. This is how site blocking mostly happen, and also if your ISP have technical problem it may result in some website become inaccesible. The workaround for this is encrypting the DNS request so your ISP and government can't interfere what sites you are accessing. More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS.
 
-Read guide below to unblock blocked sites, if doesn't work please read the last section on how to deal with it.
+Read guide below to unblock blocked sites, if doesn't work please read the next section on how to deal with it.
  
  
 ## Universal-platform (Windows/macOS/Linux/iOS/Android)
