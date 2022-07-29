@@ -1,5 +1,4 @@
-HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
------
+# HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
  
 ## Introduction
 Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, this mean your ISP & Government can affect how you access website. This is how site blocking mostly happen, and also if your ISP have technical problem it may result in some website become inaccesible. The workaround for this is encrypting the DNS request so your ISP and government can't interfere what sites you are accessing. More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS.
@@ -28,10 +27,9 @@ Android version : https://github.com/krlvm/PowerTunnel-Android/releases/latest
 If still doesn't work you need to use VPN, it almost guarantee will work, the only downside is it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.  
 free VPN : https://proprivacy.com/vpn/comparison/free-vpn-services
  
-OTHER OPTIONS (IF YOU HAVE PROBLEM WITH 1.1.1.1 APP)
------
+# OTHER OPTIONS (IF YOU HAVE PROBLEM WITH 1.1.1.1 APP)
 
-#Android
+###### Android
 
 Trust DNS
 1. Install Trust DNS - DNS Changer from Play Store or F-Droid.
@@ -48,7 +46,7 @@ Note: Device restart may be required to clear DNS cache.
 * This tutorial is for vanilla Android, steps may be different for other OSes.
  
 
-# iOS
+###### iOS
 
 DNS Cloak
 1. Install DNS Cloak from App Store.
@@ -58,7 +56,7 @@ DNS Cloak
 Note: You can't use VPN app while using this app.
  
   
-#Browsers Only (May not as effective)
+###### Browsers Only (May not as effective)
 
 Google Chrome 83+
 1. Open Menu > Settings.
@@ -77,7 +75,7 @@ Mozilla Firefox 60+
 Other browsers might also have this feature, try find it in settings.  
 Other desktop app : Simple DNSCrypt & Yoga DNS  
   
-#Gaming Consoles
+###### Gaming Consoles
 
 DNS Change  
 Full guide : https://developers.cloudflare.com/1.1.1.1/setup-1.1.1.1/gaming-consoles  
