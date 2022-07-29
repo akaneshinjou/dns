@@ -14,14 +14,21 @@ Cloudflare 1.1.1.1
 3. Enable it, tap OK (one-time).  
 4. Done.  
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.  
+
+## IF DOESN'T WORK
+If that doesn't work, and also other option below doesn't work too, it may because your ISP using other technique to block website.  
+  
+Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)  
+Windows : https://github.com/krlvm/PowerTunnel  
+Android : https://github.com/krlvm/PowerTunnel-Android  
+  
+If still doesn't work you need to use VPN that will encrypt the entire traffic on your devices and almost guarantee will work, the only downside it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.  
+free VPN : https://proprivacy.com/vpn/comparison/free-vpn-services
  
- 
+OTHER OPTIONS (IF YOU HAVE PROBLEM WITH 1.1.1.1 APP)
+-----
+
 ## Android
- 1.1.1.1
-1. Install 1.1.1.1 app from Play Store.
-2. Open the app.
-3. Enable it, tap OK (one-time).  
-Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
 
 Trust DNS
 1. Install Trust DNS - DNS Changer from Play Store or F-Droid.
@@ -39,11 +46,6 @@ Note: Device restart may be required to clear DNS cache.
  
 
 ## iOS
- 1.1.1.1
-1. Install 1.1.1.1 app from App Store.
-2. Open the app.
-3. Enable it, tap OK (one-time).  
-Note: Make sure you enable warp feature, and you can't use VPN app while using this app.
 
 DNS Cloak
 1. Install DNS Cloak from App Store.
@@ -80,13 +82,3 @@ Note: This is just normal DNS change, may not work to ublock, but this the only 
 DoH on Router  
 setup the secure DNS on your internet router. The guide is vary between router device. You need to search specifically yourself or ask your ISP for help.
 example guide : https://mariushosting.com/synology-router-how-to-enable-dns-over-https/  
- 
-## IF DOESN'T WORK
-If all method above doesn't work it may because your ISP using other technique to block website.  
-  
-Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)  
-Windows : https://github.com/krlvm/PowerTunnel  
-Android : https://github.com/krlvm/PowerTunnel-Android  
-  
-If still doesn't work you need to use VPN that will encrypt the entire traffic on your devices and almost guarantee will work, the only downside it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.  
-free VPN : https://proprivacy.com/vpn/comparison/free-vpn-services
