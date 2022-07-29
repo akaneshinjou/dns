@@ -21,7 +21,8 @@ Try use tools like PowerTunnel (Bypass more block method but more complicated to
 1. Download Java (https://www.java.com/en/download/)
 2. Download https://github.com/krlvm/PowerTunnel/releases/latest (.jre file)
 3. Run .jre file
-4. Start server
+4. Start server  
+
 Android version : https://github.com/krlvm/PowerTunnel-Android/releases/latest 
   
 If still doesn't work you need to use VPN, it almost guarantee will work, the only downside is it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.  
