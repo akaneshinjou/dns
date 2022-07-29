@@ -27,7 +27,7 @@ Android version : https://github.com/krlvm/PowerTunnel-Android/releases/latest
 If still doesn't work you need to use VPN, it almost guarantee will work, the only downside is it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.  
 free VPN : https://proprivacy.com/vpn/comparison/free-vpn-services
  
-# OTHER OPTIONS (IF YOU HAVE PROBLEM WITH 1.1.1.1 APP)
+## OTHER OPTIONS (IF YOU HAVE PROBLEM WITH 1.1.1.1 APP)
 
 ###### Android
 
