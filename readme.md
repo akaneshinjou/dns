@@ -30,6 +30,7 @@ free VPN : https://proprivacy.com/vpn/comparison/free-vpn-services
 ## OTHER OPTIONS (IF YOU HAVE PROBLEM WITH 1.1.1.1 APP)
 
 ###### Android
+---
 
 Trust DNS
 1. Install Trust DNS - DNS Changer from Play Store or F-Droid.
@@ -47,6 +48,7 @@ Note: Device restart may be required to clear DNS cache.
  
 
 ###### iOS
+---
 
 DNS Cloak
 1. Install DNS Cloak from App Store.
@@ -57,6 +59,7 @@ Note: You can't use VPN app while using this app.
  
   
 ###### Browsers Only (May not as effective)
+---
 
 Google Chrome 83+
 1. Open Menu > Settings.
@@ -76,6 +79,7 @@ Other browsers might also have this feature, try find it in settings.
 Other desktop app : Simple DNSCrypt & Yoga DNS  
   
 ###### Gaming Consoles
+---
 
 DNS Change  
 Full guide : https://developers.cloudflare.com/1.1.1.1/setup-1.1.1.1/gaming-consoles  
