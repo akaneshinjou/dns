@@ -18,10 +18,10 @@ Note: Make sure you enable warp feature, and you can't use VPN app while using t
 If that doesn't work, and also other option below doesn't work too, it may because your ISP using other technique to block website.  
   
 Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)  
-1. Download Java (https://www.java.com/en/download/)
+1. Download & Install Java (https://www.java.com/en/download/)
 2. Download https://github.com/krlvm/PowerTunnel/releases/latest (.jre file)
 3. Run .jre file
-4. Start server  
+4. Click start server  
 
 Android version : https://github.com/krlvm/PowerTunnel-Android/releases/latest 
   
