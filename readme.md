@@ -19,16 +19,19 @@ Note: Make sure you enable warp feature, and you can't use VPN app while using t
 If that doesn't work, and also other option below doesn't work too, it may because your ISP using other technique to block website.  
   
 Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)  
-Windows : https://github.com/krlvm/PowerTunnel  
-Android : https://github.com/krlvm/PowerTunnel-Android  
+1. Download Java (https://www.java.com/en/download/)
+2. Download https://github.com/krlvm/PowerTunnel/releases/latest (.jre file)
+3. Run .jre file
+4. Start server
+Android version : https://github.com/krlvm/PowerTunnel-Android/releases/latest 
   
-If still doesn't work you need to use VPN that will encrypt the entire traffic on your devices and almost guarantee will work, the only downside it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.  
+If still doesn't work you need to use VPN, it almost guarantee will work, the only downside is it's not free. There is free VPN but we can't guarante the speed, privacy, or quality of the service. This should be the last resort.  
 free VPN : https://proprivacy.com/vpn/comparison/free-vpn-services
  
 OTHER OPTIONS (IF YOU HAVE PROBLEM WITH 1.1.1.1 APP)
 -----
 
-## Android
+#Android
 
 Trust DNS
 1. Install Trust DNS - DNS Changer from Play Store or F-Droid.
@@ -45,7 +48,7 @@ Note: Device restart may be required to clear DNS cache.
 * This tutorial is for vanilla Android, steps may be different for other OSes.
  
 
-## iOS
+#iOS
 
 DNS Cloak
 1. Install DNS Cloak from App Store.
@@ -55,7 +58,8 @@ DNS Cloak
 Note: You can't use VPN app while using this app.
  
   
-## Browsers Only (May not as effective)
+#Browsers Only (May not as effective)
+
 Google Chrome 83+
 1. Open Menu > Settings.
 2. Open Security or `chrome://settings/security`.
@@ -73,8 +77,8 @@ Mozilla Firefox 60+
 Other browsers might also have this feature, try find it in settings.  
 Other desktop app : Simple DNSCrypt & Yoga DNS  
   
-  
-## Gaming Consoles
+#Gaming Consoles
+
 DNS Change  
 Full guide : https://developers.cloudflare.com/1.1.1.1/setup-1.1.1.1/gaming-consoles  
 Note: This is just normal DNS change, may not work to ublock, but this the only thing console can do
