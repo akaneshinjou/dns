@@ -15,7 +15,7 @@ Cloudflare 1.1.1.1
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.  
 
 ## IF DOESN'T WORK
-If that doesn't work, and also other option below doesn't work too, it may because your ISP using other technique to block website.  
+If that doesn't work, try 'other options' section below this before trying next option.  
   
 Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)  
 1. Download & Install Java (https://www.java.com/en/download/)
@@ -30,6 +30,26 @@ free VPN : https://proprivacy.com/vpn/comparison/free-vpn-services (any VPN will
  
 ## OTHER OPTIONS (IF YOU HAVE PROBLEM WITH 1.1.1.1 APP)
 
+###### #Browsers Only (May not as effective)
+
+Google Chrome 83+
+1. Open Menu > Settings.
+2. Open Security or `chrome://settings/security`.
+3. Enable Use secure DNS.
+4. Select With and click the dropdown next to it.
+5. Choose Cloudflare or Google or other provider.
+ 
+Mozilla Firefox 60+
+1. Open Menu > Options.
+2. Scroll down to the bottom.
+3. Click Settings under Network Settings.
+4. Check Enable DNS over HTTPS.
+5. Choose Cloudflare or NextDNS or other provider.
+
+Other browsers might also have this feature, try find it in settings.  
+Other desktop app : Simple DNSCrypt & Yoga DNS 
+  
+  
 ###### #Android
 
 Trust DNS
@@ -55,26 +75,7 @@ DNS Cloak
 3. Select DNS server you want, Cloudflare DNS are recommended.
 4. Tap Play/Start button on the top left.  
 Note: You can't use VPN app while using this app.
- 
   
-###### #Browsers Only (May not as effective)
-
-Google Chrome 83+
-1. Open Menu > Settings.
-2. Open Security or `chrome://settings/security`.
-3. Enable Use secure DNS.
-4. Select With and click the dropdown next to it.
-5. Choose Cloudflare or Google or other provider.
- 
-Mozilla Firefox 60+
-1. Open Menu > Options.
-2. Scroll down to the bottom.
-3. Click Settings under Network Settings.
-4. Check Enable DNS over HTTPS.
-5. Choose Cloudflare or NextDNS or other provider.
-
-Other browsers might also have this feature, try find it in settings.  
-Other desktop app : Simple DNSCrypt & Yoga DNS  
   
 ###### #Gaming Consoles
 
