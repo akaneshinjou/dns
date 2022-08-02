@@ -15,7 +15,7 @@ Cloudflare 1.1.1.1
 Note: Make sure you enable warp feature, and you can't use VPN app while using this app.  
 
 ## IF DOESN'T WORK
-If that doesn't work, try 'other options' section below this before trying next option.  
+If that doesn't work, try 'other options' section before trying next option.  
   
 Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)  
 1. Download & Install Java (https://www.java.com/en/download/)
