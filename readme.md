@@ -1,7 +1,7 @@
 # HOW TO UNBLOCK BLOCKED SITES USING SECURE DNS
  
 ## Introduction
-Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, this mean your ISP & Government can affect how you access website. This is how site blocking mostly happen, and also if your ISP have technical problem it may result in some website become inaccesible. The workaround for this is encrypting the DNS request so your ISP and government can't interfere what sites you are accessing. More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS.
+Whenever you open a website, your device will send DNS request, most internet connection uses ISP's DNS servers by default, this mean your ISP & Government can affect how you access website. This is how site blocking mostly happen, and also if your ISP have technical problem it may result in some website become inaccesible. The workaround for this is encrypting the DNS request so your ISP can't interfere what sites you are accessing. More info on DoH : https://en.wikipedia.org/wiki/DNS_over_HTTPS.
 
 Read guide below to unblock blocked sites, if doesn't work please read the next section on how to deal with it.
  
@@ -12,14 +12,14 @@ Cloudflare 1.1.1.1
 2. Open the app.
 3. Enable it, tap OK (one-time).  
 4. Done.  
-Note: Make sure you enable warp feature, and you can't use VPN app while using this app.  
+Note: try with & without warp feature enabled, see what work best.  
 
 ## IF DOESN'T WORK
 If that doesn't work, try 'other options' section before trying next option.  
   
 Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)  
 1. Download & Install Java (https://www.java.com/en/download/)
-2. Download https://github.com/krlvm/PowerTunnel/releases/latest (.jre file)
+2. Download https://github.com/krlvm/PowerTunnel/releases/latest (.jar file)
 3. Run .jre file
 4. Click start server  
 
