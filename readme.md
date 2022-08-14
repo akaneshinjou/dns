@@ -47,7 +47,7 @@ Mozilla Firefox 60+
 5. Choose Cloudflare or NextDNS or other provider.
 
 Other browsers might also have this feature, try find it in settings.  
-Other desktop app : Simple DNSCrypt & Yoga DNS 
+Other desktop app : Simple DNSCrypt (https://simplednscrypt.org/) & Yoga DNS (https://yogadns.com/)
   
   
 ###### #Android
