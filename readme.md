@@ -6,7 +6,7 @@ Whenever you open a website, your device will send DNS request, most internet co
 Read guide below to unblock blocked sites, if doesn't work please read the next section on how to deal with it.
  
  
-## Easy App (Windows/macOS/Linux/iOS/Android)
+## Easy App Solution (Windows/macOS/Linux/iOS/Android)
 Cloudflare 1.1.1.1
 1. Install 1.1.1.1 app from https://one.one.one.one/.
 2. Open the app.
