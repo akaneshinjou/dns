@@ -6,7 +6,7 @@ Whenever you open a website, your device will send DNS request, most internet co
 Read guide below to unblock blocked sites, if doesn't work please read the next section on how to deal with it.
  
  
-## Universal-platform (Windows/macOS/Linux/iOS/Android)
+## Easy App (Windows/macOS/Linux/iOS/Android)
 Cloudflare 1.1.1.1
 1. Install 1.1.1.1 app from https://one.one.one.one/.
 2. Open the app.
@@ -20,7 +20,7 @@ If that doesn't work, try 'other options' section before trying next option.
 Try use tools like PowerTunnel (Bypass more block method but more complicated to setup)  
 1. Download & Install Java (https://www.java.com/en/download/)
 2. Download https://github.com/krlvm/PowerTunnel/releases/latest (.jar file)
-3. Run .jre file
+3. Run .jar file
 4. Click start server  
 
 Android version : https://github.com/krlvm/PowerTunnel-Android/releases/latest 
